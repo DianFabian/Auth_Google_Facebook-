@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819752428967",
+    "project_id": "authentication-e4eb6",
+    "storage_bucket": "authentication-e4eb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819752428967:android:bfeb7b2d260270c1610282",
+        "android_client_info": {
+          "package_name": "com.example.counter_texth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ySStmje6PZRDmClZQZJ6FTrt0vIEeiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
